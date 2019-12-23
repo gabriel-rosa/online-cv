@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Gabriel Rosa e Silva
@@ -46,7 +46,6 @@ career-profile:
       I have a BSc in Electrical Engineering from the Universidade Federal de Santa Catarina, 
       where I mainly focused on low-level programming for DSPs and embedded devices as well 
       as machine learning research. I love learning new skills and facing new challenges.
-
 education:
     - degree: BSc in Electrical Engineering
       university: Universidade Federal de Santa Catarina, Florianópolis, Brazil
@@ -86,10 +85,8 @@ projects:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: C++11
         level: 85%
