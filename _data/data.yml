@@ -61,7 +61,7 @@ experiences:
       company: LINSE, Florianópolis, Brazil
       details: |
         - Development of solutions for embedded devices
-        - Optimization of signal processing algorithms for DSPs
+        - Optimization of signal processing algorithms for DSPs in C and ASM
         - Machine learning research focusing on object detection with CNNs
     - role: Software QA Intern
       time: 2011-2012
