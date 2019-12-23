@@ -139,17 +139,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Modern C++
-        level: 90%
+      - name: C++11
+        level: 85%
 
       - name: OpenGL
-        level: 90%
+        level: 85%
 
       - name: C & ASM (embedded)
-        level: 80%
+        level: 65%
 
       - name: Javascript & WebGL
-        level: 75%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
