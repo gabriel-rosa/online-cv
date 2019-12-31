@@ -73,13 +73,14 @@ experiences:
         - Helped implement automated tests
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section.
+    intro:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Tinyrenderer
+        link: "https://github.com/gabriel-rosa/tinyrenderer"
+        tagline: "Javascript implementation of ssloy's OpenGL-like software renderer."
+     - title: Glucometer
+        link: "https://github.com/gabriel-rosa/glucometer"
+        tagline: "Software for dumping data from blood glucose meters with USB connectivity. Developed in accordance with the IEEE11073 standard."
 skills:
     title: Skills &amp; Proficiency
     toolset:
