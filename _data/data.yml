@@ -74,6 +74,7 @@ experiences:
 projects:
     title: Projects
     intro: >
+    
     assignments:
       - title: Tinyrenderer
         link: "https://github.com/gabriel-rosa/tinyrenderer"
