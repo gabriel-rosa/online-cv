@@ -73,7 +73,7 @@ experiences:
         - Helped implement automated tests
 projects:
     title: Projects
-    intro:
+    intro: >
     assignments:
       - title: Tinyrenderer
         link: "https://github.com/gabriel-rosa/tinyrenderer"
