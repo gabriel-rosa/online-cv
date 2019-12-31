@@ -34,11 +34,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Passionate self-taught Graphics Programmer from Brazil. 
-      Working on computer graphics R&D for 3D fashion design solutions at Audaces. 
-      I have a BSc in Electrical Engineering from the Universidade Federal de Santa Catarina, 
-      where I mainly focused on low-level programming for DSPs and embedded devices as well 
-      as machine learning research. I love learning new skills and facing new challenges.
+      Passionate self-taught Graphics Programmer from Brazil. Working on computer graphics R&D at Audaces. 
+      I have a BSc in Electrical Engineering, with a focus on low-level programming for DSPs 
+      and embedded devices. I love learning new skills and facing new challenges.
 education:
     - degree: BSc in Electrical Engineering
       university: Universidade Federal de Santa Catarina, Florianópolis, Brazil
@@ -53,10 +51,7 @@ experiences:
       time: 2018-Present
       company: Audaces, Florianópolis, Brazil
       details: |
-        Having had computer graphics as a hobby for several years, I was lucky to 
-        land this job straight out of university. This is my first full time job
-        and it has allowed me to learn so much in such a short time, all while doing
-        what I love the most.
+        First full-time job. Allowed me to turn a hobby into a career.
           - Graphics and cloth simulation R&D using C++11 and OpenGL
     - role: Undergraduate Researcher
       time: 2015-2018
