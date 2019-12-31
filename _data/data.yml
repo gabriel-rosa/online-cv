@@ -73,15 +73,13 @@ experiences:
         - Helped implement automated tests
 projects:
     title: Projects
-    intro: >
-    
     assignments:
       - title: Tinyrenderer
         link: "https://github.com/gabriel-rosa/tinyrenderer"
-        tagline: "Javascript implementation of ssloy's OpenGL-like software renderer."
-     - title: Glucometer
-        link: "https://github.com/gabriel-rosa/glucometer"
-        tagline: "Software for dumping data from blood glucose meters with USB connectivity. Developed in accordance with the IEEE11073 standard."
+        tagline: "Javascript implementation of ssloy's OpenGL-like software renderer."        
+      - title: Glucometer
+        link: "https://github.com/gabriel-rosa/glucometer"        
+        tagline: "Software for dumping data from blood glucose meters with USB connectivity. Developed in accordance with the IEEE11073 standard."        
 skills:
     title: Skills &amp; Proficiency
     toolset:
