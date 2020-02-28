@@ -34,41 +34,27 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Passionate self-taught Graphics Programmer from Brazil. Working on computer graphics R&D at Audaces. 
-      I have a BSc in Electrical Engineering, with a focus on low-level programming for DSPs 
-      and embedded devices. I love learning new skills and facing new challenges.
+      Software Developer working on fashion CAD software. Electrical Engineer. Passionate about computer graphics.
 education:
     - degree: BSc in Electrical Engineering
       university: Universidade Federal de Santa Catarina, Florianópolis, Brazil
       time: 2014-2018
-      details:
-    - degree: Technical Degree in Telecommunications
-      university: Instituto Federal de Santa Catarina, São José, Brazil
-      time: 2009-2013
       details:
 experiences:
     - role: Graphics Programmer
       time: 2018-Present
       company: Audaces, Florianópolis, Brazil
       details: |
-        First full-time job, where I was able to turn my favorite hobby into a career.
-          - Graphics and cloth simulation R&D using C++11 and OpenGL
-          - Debugging of CPU and GPU code
-          - Being part of a larger team helped improve both my organizational and communication skills
+          - Graphics and cloth simulation R&D using C++11 and OpenGL.
+          - Debugging of CPU and GPU code.
+          - Being part of a larger team helped improve both my organizational and communication skills.
     - role: Undergraduate Researcher
       time: 2015-2018
       company: LINSE, Florianópolis, Brazil
       details: |
-        - Development of solutions for embedded devices
-        - Optimization of signal processing algorithms for DSPs in C and ASM
-        - Machine learning research focusing on object detection with CNNs
-    - role: Software QA Intern
-      time: 2011-2012
-      company: Dígitro, Florianópolis, Brazil
-      details: |
-        - Worked on automating common tasks
-        - Helped implement automated tests
-        - First contact with source control systems
+        - Developed a python script to automate the inlining of manually optimized Blackfin ASM code.
+        - Experimented with a novel method for DTMF detection, using a Support Vector Machine trained to detect tones based on an FFT input. Ended up not being used due to not running fast enough on embedded hardware.
+        - Machine learning research focusing on object detection with CNNs.
 projects:
     title: Projects
     assignments:
